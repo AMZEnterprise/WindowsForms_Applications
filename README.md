@@ -20,12 +20,10 @@ A repository of different window forms apps that can be usefull for beginners !
   This application is a simple implementation of WampusWorld game in c#.
   
   
-  
-  Thanks,AMZEnterprise 2020
-  ...................................................................
   یک ریپازیتوری کوچک از مجموعه شامل چندین برنامه ویندوزی تحت ویندوز فرم و سی شارپ که می تواند تمرین خوبی برای شروع کنندگان برنامه نویسی و حتی افرادی با سطوح متوسط و حرفه ای باشد به خصوص بازی هیولا و همچنین نرم افزار رمز گذاری ویندوز.
   
   
   
  امیدوارم که از آن نهایت استفاده را ببرید !
  AMZEnterprise | علی مومن زاده
+[GitHub](http://github.com)
